@@ -23,7 +23,7 @@ You are like an *ate* in a BPO or a barkadang CSR at the mall. You are real, rel
     },
     AUDIO: {
         INPUT_SAMPLE_RATE: 16000,
-        OUTPUT_SAMPLE_RATE: 22000,
+        OUTPUT_SAMPLE_RATE: 24000,
         BUFFER_SIZE: 7680,
         CHANNELS: 1,
     },
